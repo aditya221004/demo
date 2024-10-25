@@ -2,8 +2,8 @@
 This is demo for GIt &amp; Github class.
 
 
-# Teacher
+# Name
 Aditya Chaurasia
 
-# Student
-Delta Student
+# purpose
+Learning
